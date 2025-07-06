@@ -31,6 +31,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ### 2. Download the Textbook
 
+* Download the Ncert_science_10th.pdf file directly from the official NCERT website. Due to file size limitations, direct upload might not be possible.
 * Place your `Ncert_science_10th.pdf` file in the same directory as your Python script.
     * *(Note: The provided code processes pages 0-70. You can adjust `TARGET_PDF_PAGE_START` and `TARGET_PDF_PAGE_END` in the script to include more pages if needed).*
 ### 3. Install Python Dependencies
